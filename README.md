@@ -27,8 +27,13 @@ A simple Flutter dice game where the player rolls two dice and the app displays 
 3. Run `flutter pub get`.
 4. Run `flutter run`.
 
-## Author
-John Gerges
+# 👨‍💻 Author
+
+**John Gerges**
+
+📧 Email: johngwanes@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/john-gerges-a59592336/
 
 ## Course
 Mobile Development — Faculty of Artificial Intelligence, KSU
