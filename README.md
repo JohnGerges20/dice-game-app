@@ -28,4 +28,7 @@ A simple Flutter dice game where the player rolls two dice and the app displays 
 4. Run `flutter run`.
 
 ## Author
-Mobile Development Course — Dice Game App
+John Gerges
+
+## Course
+Mobile Development — Faculty of Artificial Intelligence, KSU
